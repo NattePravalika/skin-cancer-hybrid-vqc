@@ -88,4 +88,4 @@ This is a research/educational project and is **not a diagnostic tool**. Predict
 
 ## Author
 
-Pravalika Natte
+Natte Pravalika
